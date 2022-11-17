@@ -5,4 +5,5 @@ Formado em Análise e Desenvolvimento de Sistemas, sou iniciante como Desenvolve
 sigo estudando alguns frameworks, arquiteturas e tecnologias atuais, sigo me qualificando e aperfeiçoando minhas skills.
 
 <h3>Connect me here :point_down:</h3>
+<i class="fa-brands fa-linkedin"></i>
 

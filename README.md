@@ -1,6 +1,6 @@
  
 
-<h2 align="Center">👋 Hello, I'm Adailson Almeida!</h2> 
+<h2 align="Center">👋 Hello, I'm Adailson Almeida!🤖</h2> 
 
 Graduated in Systems Analysis and Development, I'm a beginner as a .NET Developer, 
 I'm still studying some current frameworks, architectures and technologies qualifying and improving my skills.

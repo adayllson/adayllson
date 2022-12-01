@@ -23,7 +23,7 @@ I'm still studying some current frameworks, architectures and technologies quali
 
  <div align="center">
     <h3>Contact me here 👇</h3>
-     <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="https://www.linkedin.com/in/adailson-almeida-797689189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
  

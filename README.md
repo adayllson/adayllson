@@ -19,10 +19,11 @@ I'm still studying some current frameworks, architectures and technologies quali
   <img  align="center" alt="Ada-NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   </div>
 
-          
+  ##   
 
-<h3>Contact me here :point_down:</h3>
-<a href="https://www.linkedin.com/in/adailson-almeida-797689189/" rel="followme">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adadev" height="30" width="40" style="max-width: 100%;">
-</a>
+ <div align="center">
+    <h3>Contact me here 👇</h3>
+      <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
+ </div>
+ 
  

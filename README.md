@@ -7,7 +7,7 @@ I'm still studying some current frameworks, architectures and technologies quali
 
 <div align="center">
  <a href="https://github.com/adayllson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adayllson&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adayllson{adayllson}&theme=blue-green"/>
 </div>
  
  <div align="center" style="display: inline_block"><br>

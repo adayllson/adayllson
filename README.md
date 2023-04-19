@@ -5,10 +5,6 @@
 Graduated in Systems Analysis and Development, I'm a beginner as a .NET Developer, 
 I'm still studying some current frameworks, architectures and technologies qualifying and improving my skills.
 
-<div align="center">
- <a href="https://github.com/adayllson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adayllson{adayllson}&theme=blue-green"/>
-</div>
  
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

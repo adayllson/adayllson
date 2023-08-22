@@ -2,9 +2,8 @@
 
 <h2 align="Center">👋 Hello, I'm Adailson Almeida!🤖</h2> 
 
-Graduated in Systems Analysis and Development, I'm a beginner as a .NET Developer, 
-I'm still studying some current frameworks, architectures and technologies qualifying and improving my skills.
-
+Olá, me chamo Adailson Almeida,
+Uma pessoa organizada, adaptável, que gosta de trabalhar em equipe, sempre me desafiando para o melhor aprendizado, acredito no compartilhamento de experiência e conhecimento. Estou no início de carreira como Desenvolvedor de Software, mas almejo conquistar mais responsabilidades e altos níveis como profissional de TI. Atualmente venho estudando e me capacitando nas tecnologias C#, .NET, ASP.NET, Blazor, HTML, CSS e Bootstrap, tenho estudado e me atualizado também em outras tecnologias, metodologias e frameworks afim de melhorar minhas skills.
  
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

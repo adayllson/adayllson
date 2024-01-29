@@ -3,13 +3,11 @@
 <h2 align="Center">👋 Hello, I'm Adailson Almeida!🤖</h2> 
 
 Olá, me chamo Adailson Almeida,
-Uma pessoa organizada, adaptável, que gosta de trabalhar em equipe, sempre me desafiando para o melhor aprendizado, acredito no compartilhamento de experiência e conhecimento. Estou no início de carreira como Desenvolvedor de Software, mas almejo conquistar mais responsabilidades e altos níveis como profissional de TI. Atualmente venho estudando e me capacitando nas tecnologias C#, .NET, ASP.NET, Blazor, HTML, CSS e Bootstrap, tenho estudado e me atualizado também em outras tecnologias, metodologias e frameworks afim de melhorar minhas skills.
- 
+Uma pessoa organizada, adaptável, que gosta de trabalhar em equipe, sempre me desafiando para o melhor aprendizado, acredito no compartilhamento de experiência e conhecimento. Estou no início de carreira como Desenvolvedor de Software, mas almejo conquistar mais responsabilidades e altos níveis como profissional de TI.
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center" alt="Ada-NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img  align="center" alt="Ada-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img  align="center" alt="Ada-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
